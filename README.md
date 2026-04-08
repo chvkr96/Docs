@@ -1,7 +1,4 @@
----
-layout: default
-title: Vinay Kumar Reddy Chilakala - Senior Software Engineer
----
+
 
 # VINAY KUMAR REDDY CHILAKALA
 **Senior Software Engineer | Data Architect | AWS**
